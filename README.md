@@ -5,3 +5,6 @@ This is a remake of my old personal website. I decided to do this as I didn't be
 
 ## SvelteKit Developer View
     npm run dev -- --open
+
+## Documentation
+    http://localhost:5173/

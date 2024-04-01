@@ -6,5 +6,11 @@ This is a remake of my old personal website. I decided to do this as I didn't be
 ## SvelteKit Developer View
     npm run dev -- --open
 
-## Documentation
+## Documentation and Shortcuts
     kit.svelte.dev
+    
+    press r + enter to restart the server
+    press u + enter to show server url
+    press o + enter to open in browser
+    press c + enter to clear console
+    press q + enter to quit
